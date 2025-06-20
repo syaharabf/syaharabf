@@ -1,5 +1,5 @@
-## Hello World! I'm Syahara Bintang Fiisura  👋
-
+<!--## Hello World! I'm Syahara Bintang Fiisura  👋
+-->
 ![syahara](/img/github-header-image.png)
 
 <!--
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying at **Universitas PGRI Madiun**
 - 🌱 I’m currently learning [**GitHub**](https://github.com/) Repository
-- 🤩🤩🤩🤩🤩
+- 😎😎😎
 
-![welcome](https://media1.tenor.com/m/hK-GRMQqhjUAAAAC/peach-goma-goma-peach.gif)
+![welcome](https://media1.tenor.com/m/kOmVqGOJyIUAAAAC/silent-power.gif)
