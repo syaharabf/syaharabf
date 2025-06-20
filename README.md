@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Syahara Bintang Fiisura  👋
+
+![syahara](/img/github-header-image.png)
 
 <!--
 **syaharabf/syaharabf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying at **Universitas PGRI Madiun**
+- 🌱 I’m currently learning [**GitHub**](https://github.com/) Repository
+- 🤩🤩🤩🤩🤩
+![welcome](https://media1.tenor.com/m/hK-GRMQqhjUAAAAC/peach-goma-goma-peach.gif)
